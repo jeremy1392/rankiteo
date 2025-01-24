@@ -1,6 +1,6 @@
 ### **RiskMind AI: Precision Insights**
  
-The first public release, RiskMind AI, represents the culmination of all prior developments. It combines **transformer-based learning**, **quantile predictions**, and **contextual adaptability** into a single, robust tool. With user-friendly outputs and actionable insights, RiskMind AI is designed to empower decision-makers to mitigate cyber risks effectively.
+RiskMind AI represents the culmination of all prior developments. It combines **transformer-based learning**, **quantile predictions**, and **contextual adaptability** into a single, robust tool. With user-friendly outputs and actionable insights, RiskMind AI is designed to empower decision-makers to mitigate cyber risks effectively.
 
 **Key Features**:
 - Full-featured **predictive modeling** with quantile-based severity predictions.
