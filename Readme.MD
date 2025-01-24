@@ -83,7 +83,7 @@ StatGuard AI laid the foundation for cyber risk modeling using traditional **sta
 
 ---
 
-### **The Path Forward**
+###🌟 **The Path Forward**
 
 With **RiskMind AI 1.0**, we’ve reached a significant milestone in cyber risk modeling. But the journey doesn’t stop here. The next steps aim to:
 - Introduce **real-time streaming capabilities** for live breach predictions.
