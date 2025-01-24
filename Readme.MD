@@ -1,4 +1,4 @@
-# **Rank-RiskMind AI: Precision Insights**  
+# **RiskMind AI: Precision Insights**  
 
 ---
 
@@ -20,4 +20,46 @@
 Whether it's **policy adjustments** or **extreme event scenarios**, **RiskMind AI** ensures businesses are prepared for the challenges of tomorrow. Built for decision-makers, it turns **data into actionable insights**, empowering organizations to mitigate risks and make informed decisions with confidence.
 
 ---
+
+### **How to Get Started**
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-repo/riskmind-ai.git
+   cd riskmind-ai 
+
+2. **Install dependencies**:
  
+pip install -r requirements.txt
+
+3. **Run the model**:
+
+python prediction_cost_all.py --sector "Healthcare" --policy_length 6 --security_score 850 --revenue 1000000 --employees 500 --followers 10000
+
+---
+
+### **Sample Outputs**
+
+### **Key Metrics**
+
+| **Metric** | **Value** |
+| ---------- | --------- |
+| **Adjusted Probability** | 0.2588 |
+| **Predicted Severity** | 29,819 records |
+| **Cost Based on Severity** | $14,938,126.24 |
+| **95% Prediction Interval** | [501, 400,174] records |
+| **Cost Based on Quantile (99%)** | $337,663,571.68 |
+
+
+### **Detailed Breach Types**
+
+| **Breach Type** | **Probability** | **Severity** | **Cost** |
+| --------------- | --------------- | ------------ | -------- |
+| Cyberattack | 0.2588 | 29,819 records | $14,938,126.24 |
+| Humansystemerror | 0.1352 | 10,182 records | $5,091,089.00 |
+| Physicalattack | 0.0456 | 5,019 records | $2,509,540.00 |
+
+
+---
+
+### **License**
+This project is licensed under the MIT License.
