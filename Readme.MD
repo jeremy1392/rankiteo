@@ -74,7 +74,7 @@ StatGuard AI laid the foundation for cyber risk modeling using traditional **sta
 
 | **Version**      | **Name**                 | **Focus**                                     |
 |-------------------|--------------------------|-----------------------------------------------|
-| **1.0**           | RiskMind AI: Precision Insights | Full-featured predictive and probabilistic AI tool. |
+| **1.0**           | **RiskMind AI: Precision Insights** | Full-featured predictive and probabilistic AI tool. |
 | **0.5**           | TransformRisk AI         | Transformer-based learning for sequential and complex data. |
 | **0.4**           | QuantifyEdge AI          | Quantile predictions and extreme event modeling. |
 | **0.3**           | AdaptAI                 | Context-aware adaptability and scaling.       |
@@ -90,7 +90,7 @@ With **RiskMind AI 1.0**, we’ve reached a significant milestone in cyber risk 
 - Enhance the power of **transformers** for ever more complex scenarios.
 - Improve transparency and explainability with **state-of-the-art visualizations**.
 
-**Invest in the future of cybersecurity with RiskMind AI.**
+**Invest in the future of cybersecurity with Rankiteo next-generation AI model: RiskMind**
 
 ---
 
