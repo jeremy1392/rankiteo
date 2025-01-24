@@ -12,13 +12,14 @@ TransformRisk AI integrates **transformer-based architectures** for risk modelin
 ### **How to Get Started**
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/rankiteo/riskmind-ai.git
-   cd riskmind-ai 
+   git clone https://github.com/jeremy1392/rankiteo.git
+   cd rankiteo/CyberRisk-RankAI-version0.5
 
 2. **Install dependencies**:
    ```bash 
    pip install -r requirements.txt
-
+   
+   Note: Python 3.9 may be needed to match the compatibility of the package.
 
 3. **Run the model**:
    To execute the model, use the following command:
