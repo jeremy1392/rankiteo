@@ -33,10 +33,10 @@ Whether it's **policy adjustments** or **extreme event scenarios**, **RiskMind A
 
 
 3. **Run the model**:
-To execute the model, use the following command:
+   To execute the model, use the following command:
 
-```bash
-python prediction_cost_all.py --sector "Healthcare" --policy_length 6 --security_score 850 --revenue 1000000 --employees 500 --followers 10000
+   ```bash
+   python prediction_cost_all.py --sector "Healthcare" --policy_length 6 --security_score 850 --revenue 1000000 --employees 500 --followers 10000
 
 **Note**:
 
