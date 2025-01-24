@@ -77,7 +77,7 @@ StatGuard AI laid the foundation for cyber risk modeling using traditional **sta
 | **0.4**           | QuantifyEdge AI          | Quantile predictions and extreme event modeling. | ~50,000               |
 | **0.3**           | AdaptAI                 | Context-aware adaptability and scaling.       | ~10,000               |
 | **0.2**           | RiskSphere AI            | Machine learning with Random Forest for probabilities and severity. | ~5,000                |
-| **0.1**           | StatGuard AI             | Statistical modeling with GLM and regression. | ~10                   |
+| **0.1**           | StatGuard AI             | Statistical modeling with GLMs. | ~10                   |
 
 ---
 
