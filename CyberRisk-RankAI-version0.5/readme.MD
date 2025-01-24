@@ -19,7 +19,7 @@ TransformRisk AI integrates **transformer-based architectures** for risk modelin
    ```bash 
    pip install -r requirements.txt
    
-Note: Python 3.9 may be needed to match the compatibility of the package.
+  Note: Python 3.9 may be needed to match the compatibility of the package.
 
 3. **Run the model**:
    To execute the model, use the following command:
