@@ -44,7 +44,7 @@ Whether it's **policy adjustments** or **extreme event scenarios**, **RiskMind A
 The model **requires** the following inputs:
 - *`sector`*: The business sector (e.g., Healthcare, Finance, etc.).
 - *`policy_length`*: The policy duration in months (6 or 12).
-- *`security_score`*: A numerical security score (e.g., 850).
+- *`security_score`*: A numerical security score from Rankiteo Cyberscoring Platform (e.g., 750).
 
 The other inputs (*`revenue`*, *`employees`*, *`followers`*) are *optional* but can significantly enhance the prediction accuracy.
  
@@ -60,7 +60,7 @@ The other inputs (*`revenue`*, *`employees`*, *`followers`*) are *optional* but 
 | **Adjusted Probability** | 0.2588 |
 | **Predicted Severity** | 29,819 records |
 | **Cost Based on Severity** | $14,938,126.24 |
-| **95% Prediction Interval** | [501, 400,174] records |
+| **Cost 95% Prediction Interval** | [$50,112, $400,174]|
 | **Cost Based on Quantile (99%)** | $337,663,571.68 |
 
 
@@ -68,9 +68,9 @@ The other inputs (*`revenue`*, *`employees`*, *`followers`*) are *optional* but 
 
 | **Breach Type** | **Probability** | **Severity** | **Cost** |
 | --------------- | --------------- | ------------ | -------- |
-| Cyberattack | 0.2588 | 29,819 records | $14,938,126.24 |
-| Humansystemerror | 0.1352 | 10,182 records | $5,091,089.00 |
-| Physicalattack | 0.0456 | 5,019 records | $2,509,540.00 |
+| Cyber Attack | 0.2588 | 29,819 records | $14,938,126.24 |
+| Human&System Error | 0.1352 | 10,182 records | $5,091,089.00 |
+| Physical Cause | 0.0456 | 5,019 records | $2,509,540.00 |
 
 
 ---
