@@ -1,9 +1,11 @@
-# **RiskMind AI: Precision Insights**  
+### **Version 1.0: RiskMind AI: Precision Insights**
+ 
+The first public release, RiskMind AI, represents the culmination of all prior developments. It combines **transformer-based learning**, **quantile predictions**, and **contextual adaptability** into a single, robust tool. With user-friendly outputs and actionable insights, RiskMind AI is designed to empower decision-makers to mitigate cyber risks effectively.
 
----
-
-### **Overview**  
-**"RiskMind AI"** represents the cutting edge of **cyber risk modeling**, delivering precision insights to empower decision-makers. It leverages a hybrid approach, combining **machine learning techniques** like **Distributional Random Forest** with advanced **probabilistic models**.
+**Key Features**:
+- Full-featured **predictive modeling** with quantile-based severity predictions.
+- Advanced adjustment for **revenue, security score, and policy length**.
+- Confidence intervals, expected shortfalls, and **extreme event readiness**.
 
 ---
 
