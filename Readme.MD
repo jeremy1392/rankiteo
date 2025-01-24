@@ -31,6 +31,7 @@ Whether it's **policy adjustments** or **extreme event scenarios**, **RiskMind A
  ```bash 
 pip install -r requirements.txt
 
+
 3. **Run the model**:
 To execute the model, use the following command:
 
