@@ -28,13 +28,23 @@ Whether it's **policy adjustments** or **extreme event scenarios**, **RiskMind A
    cd riskmind-ai 
 
 2. **Install dependencies**:
- 
+ ```bash 
 pip install -r requirements.txt
 
 3. **Run the model**:
+To execute the model, use the following command:
 
+```bash
 python prediction_cost_all.py --sector "Healthcare" --policy_length 6 --security_score 850 --revenue 1000000 --employees 500 --followers 10000
 
+**Note**:
+
+The model **requires** the following inputs:
+- **`sector`**: The business sector (e.g., Healthcare, Finance, etc.).
+- **`policy_length`**: The policy duration in months (6 or 12).
+- **`security_score`**: A numerical security score (e.g., 850).
+
+The other inputs (**`revenue`**, **`employees`**, **`followers`**) are **optional** but can significantly enhance the prediction accuracy.
 ---
 
 ### **Sample Outputs**
