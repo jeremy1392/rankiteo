@@ -70,17 +70,23 @@ StatGuard AI laid the foundation for cyber risk modeling using traditional **sta
 
 ---
 
-### **Visualizing the Evolution**
+| **Version**      | **Name**                 | **Focus**                                     | **Approx. Parameters** |
+|-------------------|--------------------------|-----------------------------------------------|-------------------------|
+| **1.0**           | RiskMind AI: Precision Insights | Full-featured predictive and probabilistic AI tool. | ~500,000+              |
+| **0.5**           | TransformRisk AI         | Transformer-based learning for sequential and complex data. | ~500,000              |
+| **0.4**           | QuantifyEdge AI          | Quantile predictions and extreme event modeling. | ~50,000               |
+| **0.3**           | AdaptAI                 | Context-aware adaptability and scaling.       | ~10,000               |
+| **0.2**           | RiskSphere AI            | Machine learning with Random Forest for probabilities and severity. | ~5,000                |
+| **0.1**           | StatGuard AI             | Statistical modeling with GLM and regression. | ~10                   |
 
-| **Version**      | **Name**                 | **Focus**                                     |
-|-------------------|--------------------------|-----------------------------------------------|
-| **1.0**           | **RiskMind AI: Precision Insights** | Full-featured predictive and probabilistic AI tool. |
-| **0.5**           | TransformRisk AI         | Transformer-based learning for sequential and complex data. |
-| **0.4**           | QuantifyEdge AI          | Quantile predictions and extreme event modeling. |
-| **0.3**           | AdaptAI                 | Context-aware adaptability and scaling.       |
-| **0.2**           | RiskSphere AI            | Machine learning with Random Forest for probabilities and severity. |
-| **0.1**           | StatGuard AI             | Statistical modeling with GLMs. |
+---
 
+### **Notes**:
+- The **parameters** reflect the number of model weights and configurations, approximated based on typical use cases for each approach.
+- Transformers (used in versions 0.5 and 1.0) have significantly higher parameter counts, indicating advanced capabilities.
+- While higher parameters often indicate better performance, efficiency and scalability are also prioritized in later versions.
+
+ 
 ---
 
 ### **The Path Forward**🌟
