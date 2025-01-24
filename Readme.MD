@@ -61,7 +61,8 @@ The other inputs (*`revenue`*, *`employees`*, *`followers`*) are *optional* but 
 | **Predicted Severity** | 29,819 records |
 | **Cost Based on Severity** | $14,938,126.24 |
 | **Cost 95% Prediction Interval** | [$50,112, $400,174]|
-| **Cost Based on Quantile (99%)** | $337,663,571.68 |
+| **Cost Based on VaR (99%)** | $337,663,571.68 |
+| **Cost Based on ES (99%)** | $423,513,218.21 |
 
 
 ### **Detailed Breach Types**
