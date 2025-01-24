@@ -1,11 +1,12 @@
-### **Version 0.1: StatGuard AI**
-**Story**:  
-StatGuard AI lays the foundation of risk modeling using traditional **statistical methods**. It leverages **regression models** to predict the likelihood of incidents based on structured historical data. This version demonstrates the power of data-driven decision-making, replacing intuition with numbers.
+### **Version 0.5: TransformRisk AI**
+ 
+TransformRisk AI integrates **transformer-based architectures** for risk modeling. Leveraging the power of **self-attention** and **sequence modeling**, this version excels at identifying patterns in large datasets, including **temporal trends**. It pushes the boundaries of prediction accuracy and handles complex cyber threat scenarios.
 
 **Key Features**:
-- Simple **logistic regression** and **GLM** models.
-- Early exploration of **probability predictions**.
-- Focus on baseline accuracy for breach detection.
+- Transformer models for **time-series and sequential data**.
+- Enhanced feature extraction for **complex risk dependencies**.
+- Significant improvements in prediction accuracy and speed.
+
 
 ---
 
