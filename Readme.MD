@@ -1,6 +1,6 @@
 # **The Evolution of RiskMind AI**
 
-RiskMind AI is the result of years of refinement, innovation, and dedication to redefining cyber risk modeling. Each version, **born of lessons learned**, has brought us closer to the future of predictive intelligence. Explore the journey, starting with our latest breakthrough:
+Rankiteo's RiskMind AI is the result of years of refinement, innovation, and dedication to redefining cyber risk modeling. Each version, **born of lessons learned**, has brought us closer to the future of predictive intelligence. Explore the journey, starting with our latest breakthrough:
 
 ---
 
@@ -90,7 +90,7 @@ With **RiskMind AI 1.0**, we’ve reached a significant milestone in cyber risk 
 - Enhance the power of **transformers** for ever more complex scenarios.
 - Improve transparency and explainability with **state-of-the-art visualizations**.
 
-**Invest in the future of cybersecurity with Rankiteo next-generation AI model: RiskMind**
+**Invest in the future of cybersecurity with Rankiteo's next-generation AI model: RiskMind!**
 
 ---
 
