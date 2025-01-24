@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn==1.2.2
+statsmodels==0.14.1
+pickle5
+
