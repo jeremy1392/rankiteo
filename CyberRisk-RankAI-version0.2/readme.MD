@@ -1,13 +1,11 @@
-### **Version 0.1: StatGuard AI**
-**Story**:  
-StatGuard AI lays the foundation of risk modeling using traditional **statistical methods**. It leverages **regression models** to predict the likelihood of incidents based on structured historical data. This version demonstrates the power of data-driven decision-making, replacing intuition with numbers.
+### **Version 0.2: RiskSphere AI**
+
+RiskSphere AI introduces more **dynamic relationships** by incorporating **machine learning techniques** such as **Random Forests**. This version provides better accuracy and starts quantifying **severity** alongside probabilities, enabling actionable insights for businesses.
 
 **Key Features**:
-- Simple **logistic regression** and **GLM** models.
-- Early exploration of **probability predictions**.
-- Focus on baseline accuracy for breach detection.
-
----
+- **Random Forests** for non-linear relationships.
+- First integration of **severity prediction models**.
+- Simple decision-making rules for policy adjustments.
 
 
 ### **Sample Outputs**
