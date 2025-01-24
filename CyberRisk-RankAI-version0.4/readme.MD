@@ -1,13 +1,11 @@
-### **Version 0.1: StatGuard AI**
-**Story**:  
-StatGuard AI lays the foundation of risk modeling using traditional **statistical methods**. It leverages **regression models** to predict the likelihood of incidents based on structured historical data. This version demonstrates the power of data-driven decision-making, replacing intuition with numbers.
+### **Version 0.4: QuantifyEdge AI**
+ 
+QuantifyEdge AI brings **quantile-based predictions** into the spotlight, allowing for **confidence intervals** and **probabilistic insights**. It introduces **extreme event modeling**, enabling businesses to plan for rare but high-impact breaches. This version bridges the gap between predictions and actionable risk strategies.
 
 **Key Features**:
-- Simple **logistic regression** and **GLM** models.
-- Early exploration of **probability predictions**.
-- Focus on baseline accuracy for breach detection.
-
----
+- Quantile-based severity and confidence interval predictions.
+- **Expected shortfall (ES)** metrics for extreme events.
+- Advanced risk visualization and reporting.
 
 
 ### **Sample Outputs**
