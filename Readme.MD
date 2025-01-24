@@ -1,80 +1,88 @@
-# **RiskMind AI: Precision Insights**  
+# **The Journey of RiskMind AI**
+
+Explore the evolution of **RiskMind AI** through its versions, each bringing innovative advancements in cyber risk modeling. From statistical methods to cutting-edge transformers, this journey showcases continuous improvement and precision.
 
 ---
 
-### **Overview**  
-**"RiskMind AI"** represents the cutting edge of **cyber risk modeling**, delivering precision insights to empower decision-makers. It leverages a hybrid approach, combining **machine learning techniques** like **Distributional Random Forest** with advanced **probabilistic models**.
+### **Version 0.1: StatGuard AI**
+**Story**:  
+StatGuard AI lays the foundation of risk modeling using traditional **statistical methods**. It leverages **regression models** to predict the likelihood of incidents based on structured historical data. This version demonstrates the power of data-driven decision-making, replacing intuition with numbers.
+
+**Key Features**:
+- Simple **logistic regression** and **GLM** models.
+- Early exploration of **probability predictions**.
+- Focus on baseline accuracy for breach detection.
 
 ---
 
-### **Key Features**
-- 🚀 **Actionable Insights**: Provides precise predictions and robust severity metrics.
-- 📊 **Confidence Intervals**: Quantifies risk with detailed intervals and expected shortfalls.
-- 🤖 **Hybrid Modeling**: Combines machine learning with advanced probabilistic frameworks.
-- 🔄 **Dynamic Adjustments**: Adapts to various policy lengths, revenue tiers, and security scores.
-- ⚠️ **Extreme Event Readiness**: Designed to handle black swan scenarios and emerging cyber threats.
+### **Version 0.2: RiskSphere AI**
+**Story**:  
+RiskSphere AI introduces more **dynamic relationships** by incorporating **machine learning techniques** such as **Random Forests**. This version provides better accuracy and starts quantifying **severity** alongside probabilities, enabling actionable insights for businesses.
+
+**Key Features**:
+- **Random Forests** for non-linear relationships.
+- First integration of **severity prediction models**.
+- Simple decision-making rules for policy adjustments.
 
 ---
 
-### **Why Choose RiskMind AI?**
-Whether it's **policy adjustments** or **extreme event scenarios**, **RiskMind AI** ensures businesses are prepared for the challenges of tomorrow. Built for decision-makers, it turns **data into actionable insights**, empowering organizations to mitigate risks and make informed decisions with confidence.
+### **Version 0.3: AdaptAI**
+**Story**:  
+AdaptAI marks a turning point with **context-aware adaptability**. By accounting for sector-specific risks, policy lengths, and company sizes, it improves predictions significantly. This version also enhances interpretability for business users through clear adjustments based on real-world factors.
+
+**Key Features**:
+- **Sector-specific context** and adaptability.
+- Dynamic scaling for **policy length** and **security score**.
+- Early-stage user-friendly output and explainability.
 
 ---
 
-### **How to Get Started**
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/rankiteo/riskmind-ai.git
-   cd riskmind-ai 
+### **Version 0.4: QuantifyEdge AI**
+**Story**:  
+QuantifyEdge AI brings **quantile-based predictions** into the spotlight, allowing for **confidence intervals** and **probabilistic insights**. It introduces **extreme event modeling**, enabling businesses to plan for rare but high-impact breaches. This version bridges the gap between predictions and actionable risk strategies.
 
-2. **Install dependencies**:
-   ```bash 
-   pip install -r requirements.txt
-
-
-3. **Run the model**:
-   To execute the model, use the following command:
-
-   ```bash
-   python prediction_cost_all.py --sector "Healthcare" --policy_length 6 --security_score 850 --revenue 1000000 --employees 500 --followers 10000
-
- 
-*Note*:
-
-The model **requires** the following inputs:
-- *`sector`*: The business sector (e.g., Healthcare, Finance, etc.).
-- *`policy_length`*: The policy duration in months (6 or 12).
-- *`security_score`*: A numerical security score from Rankiteo Cyberscoring Platform (e.g., 750).
-
-The other inputs (*`revenue`*, *`employees`*, *`followers`*) are *optional* but can significantly enhance the prediction accuracy.
- 
+**Key Features**:
+- Quantile-based severity and confidence interval predictions.
+- **Expected shortfall (ES)** metrics for extreme events.
+- Advanced risk visualization and reporting.
 
 ---
 
-### **Sample Outputs**
+### **Version 0.5: TransformRisk AI**
+**Story**:  
+TransformRisk AI integrates **transformer-based architectures** for risk modeling. Leveraging the power of **self-attention** and **sequence modeling**, this version excels at identifying patterns in large datasets, including **temporal trends**. It pushes the boundaries of prediction accuracy and handles complex cyber threat scenarios.
 
-### **Key Metrics**
-
-| **Metric** | **Value** |
-| ---------- | --------- |
-| **Adjusted Probability** | 0.2588 |
-| **Predicted Severity** | 29,819 records |
-| **Cost Based on Severity** | $14,938,126.24 |
-| **Cost 95% Prediction Interval** | [$50,112, $400,174]|
-| **Cost Based on VaR (99%)** | $337,663,571.68 |
-| **Cost Based on ES (99%)** | $423,513,218.21 |
-
-
-### **Detailed Breach Types**
-
-| **Breach Type** | **Probability** | **Severity** | **Cost** |
-| --------------- | --------------- | ------------ | -------- |
-| Cyber Attack | 0.2588 | 29,819 records | $14,938,126.24 |
-| Human&System Error | 0.1352 | 10,182 records | $5,091,089.00 |
-| Physical Cause | 0.0456 | 5,019 records | $2,509,540.00 |
-
+**Key Features**:
+- Transformer models for **time-series and sequential data**.
+- Enhanced feature extraction for **complex risk dependencies**.
+- Significant improvements in prediction accuracy and speed.
 
 ---
 
-### **License**
-This project is licensed under the MIT License.
+### **Version 1.0: RiskMind AI: Precision Insights**
+**Story**:  
+The first public release, RiskMind AI, represents the culmination of all prior developments. It combines **transformer-based learning**, **quantile predictions**, and **contextual adaptability** into a single, robust tool. With user-friendly outputs and actionable insights, RiskMind AI is designed to empower decision-makers to mitigate cyber risks effectively.
+
+**Key Features**:
+- Full-featured **predictive modeling** with quantile-based severity predictions.
+- Advanced adjustment for **revenue, security score, and policy length**.
+- Confidence intervals, expected shortfalls, and **extreme event readiness**.
+
+---
+
+### **Visualizing the Journey**
+
+| **Version**      | **Name**                 | **Focus**                                     |
+|-------------------|--------------------------|-----------------------------------------------|
+| **0.1**           | StatGuard AI             | Statistical modeling with GLM and regression. |
+| **0.2**           | RiskSphere AI            | Machine learning with Random Forest for probabilities and severity. |
+| **0.3**           | AdaptAI                 | Context-aware adaptability and scaling.       |
+| **0.4**           | QuantifyEdge AI          | Quantile predictions and extreme event modeling. |
+| **0.5**           | TransformRisk AI         | Transformer-based learning for sequential and complex data. |
+| **1.0**           | RiskMind AI: Precision Insights | Full-featured predictive and probabilistic AI tool. |
+
+---
+
+### **The Path Ahead**
+RiskMind AI's journey doesn't stop here. Future versions aim to integrate **real-time streaming data**, **neural edge modeling**, and enhanced explainability to stay at the forefront of cyber risk modeling.
+
