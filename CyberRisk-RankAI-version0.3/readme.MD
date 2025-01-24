@@ -1,11 +1,11 @@
-### **Version 0.1: StatGuard AI**
-**Story**:  
-StatGuard AI lays the foundation of risk modeling using traditional **statistical methods**. It leverages **regression models** to predict the likelihood of incidents based on structured historical data. This version demonstrates the power of data-driven decision-making, replacing intuition with numbers.
+### **Version 0.3: AdaptAI**
+
+AdaptAI marks a turning point with **context-aware adaptability**. By accounting for sector-specific risks, policy lengths, and company sizes, it improves predictions significantly. This version also enhances interpretability for business users through clear adjustments based on real-world factors.
 
 **Key Features**:
-- Simple **logistic regression** and **GLM** models.
-- Early exploration of **probability predictions**.
-- Focus on baseline accuracy for breach detection.
+- **Sector-specific context** and adaptability.
+- Dynamic scaling for **policy length** and **security score**.
+- Early-stage user-friendly output and explainability.
 
 ---
 
