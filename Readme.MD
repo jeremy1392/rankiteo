@@ -4,7 +4,7 @@ Rankiteo's RiskMind AI is the result of years of refinement, innovation, and ded
 
 ---
 
-## 🚀**Version 1.0: RiskMind AI: Precision Insights**  
+## **Version 1.0: RiskMind AI: Precision Insights**   🚀
 
 This is the first public release of **RiskMind AI**, combining **transformer-based learning**, **quantile predictions**, and **contextual adaptability** into a single, robust tool. It empowers decision-makers with actionable insights to mitigate cyber risks effectively.
 
