@@ -46,21 +46,21 @@ The other inputs (*`revenue`*, *`employees`*, *`followers`*) are *optional* but 
 
 | **Metric** | **Value** |
 | ---------- | --------- |
-| **Adjusted Probability** | 0.2588 |
-| **Predicted Severity** | 29,819 records |
-| **Cost Based on Severity** | $14,938,126.24 |
-| **Cost 95% Prediction Interval** | [$50,112, $400,174]|
-| **Cost Based on VaR (99%)** | $337,663,571.68 |
-| **Cost Based on ES (99%)** | $423,513,218.21 |
+| **Breach Probability** | 0.2361 |
+| **Predicted Severity** | 20,132 records |
+| **Cost Based on Severity** | $12,452,231.43 |
+| **Cost 95% Prediction Interval** | [$50,321, $387,154]|
+| **Cost Based on VaR (99%)** | $327,563,234.45 |
+| **Cost Based on ES (99%)** | $433,215,321.32|
 
 
 ### **Detailed Breach Types**
 
 | **Breach Type** | **Probability** | **Severity** | **Cost** |
 | --------------- | --------------- | ------------ | -------- |
-| Cyber Attack | 0.2588 | 29,819 records | $14,938,126.24 |
-| Human&System Error | 0.1352 | 10,182 records | $5,091,089.00 |
-| Physical Cause | 0.0456 | 5,019 records | $2,509,540.00 |
+| Cyber Attack | 0.2361 | 20,132 records | $12,452,231.43 |
+| Human&System Error | 0.1123 | 15,124 records | $4,011,126.18 |
+| Other Cause | 0.0016 | 3,019 records | $1,002,240.00 |
 
 
 ---
