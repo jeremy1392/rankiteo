@@ -32,7 +32,7 @@ TransformRisk AI integrates **transformer-based architectures** for risk modelin
 
 The model **requires** the following inputs:
 - *`sector`*: The business sector (e.g., Healthcare, Finance, etc.).
-- *`policy_length`*: The policy duration in months (6 or 12).
+- *`policy_length`*: The policy duration in months (6 or 12, or other customized months).
 - *`security_score`*: A numerical security score from Rankiteo Cyberscoring Platform (e.g., 750).
 
 The other inputs (*`revenue`*, *`employees`*, *`followers`*) are *optional* but can significantly enhance the prediction accuracy.
