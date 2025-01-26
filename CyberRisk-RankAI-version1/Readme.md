@@ -30,7 +30,7 @@ Whether it's **policy adjustments** or **extreme event scenarios**, **RiskMind A
 
 | **Metric** | **Value** |
 | ---------- | --------- |
-| **Adjusted Probability** | 0.2588 |
+| **Breached Probability** | 0.2588 |
 | **Predicted Severity** | 29,819 records |
 | **Cost Based on Severity** | $14,938,126.24 |
 | **Cost 95% Prediction Interval** | [$50,112, $400,174]|
@@ -44,7 +44,7 @@ Whether it's **policy adjustments** or **extreme event scenarios**, **RiskMind A
 | --------------- | --------------- | ------------ | -------- |
 | Cyber Attack | 0.2588 | 29,819 records | $14,938,126.24 |
 | Human&System Error | 0.1352 | 10,182 records | $5,091,089.00 |
-| Physical Cause | 0.0456 | 5,019 records | $2,509,540.00 |
+| Other Cause | 0.0456 | 5,019 records | $2,509,540.00 |
 
 
 ---
