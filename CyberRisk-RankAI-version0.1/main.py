@@ -63,14 +63,18 @@ if __name__ == "__main__":
         lr_prob = glm_model.predict_proba(X_lr)[:, 1]
       
         adjusted_prob = lr_prob[0]*(math.exp(1 - args.security_score / 1000) / 1.22)
+        
+        output_type = "Others" if breach_type == "Physicalattack" else breach_type
+
         # Print out the results for each breach type
-        print(f"Breach Type: {breach_type}")
+        print(f"Breach Type: {output_type}")
         print(f"Adjusted Probability: {adjusted_prob:.4f}")
         print("=" * 50)
+        
 
         # Append the results to the list
         results.append({
-            'Type': breach_type,
+            'Type': output_type,
             'Adjusted Probability': adjusted_prob
         })
 
