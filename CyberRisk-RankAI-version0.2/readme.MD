@@ -33,8 +33,8 @@ RiskSphere AI introduces more **dynamic relationships** by incorporating **machi
 | **Breach Type** | **Probability**  | **Predicted Severity (number of breached records)**  
 | --------------- | ---------------  | ---------------  
 | Cyber Attack | 0.2588  |14,092 records
-| Human&System Error | 0.1352  | 5,320 records
-| Others | 0.0456  | 3,707 records 
+| Human&System Error | 0.2361  | 5,320 records
+| Others | 0.1895  | 3,707 records 
 
 
 ---
