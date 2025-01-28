@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Version 0.2 - RiskSphere AI
+Version 0.3: AdaptAI
 """
 
 import pandas as pd
