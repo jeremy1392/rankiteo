@@ -25,7 +25,7 @@ AdaptAI marks a turning point with **context-aware adaptability**. Accounting fo
    To execute the model, use the following command:
 
    ```bash
-   python prediction_cost_all.py --sector "Healthcare" --policy_length 6 --security_score 850 --revenue 1000000 --employees 500 --followers 10000
+   python main.py --sector "Healthcare" --policy_length 6 --security_score 850 --revenue 1000000 --employees 500 --followers 10000
 
  
 *Note*:
