@@ -14,7 +14,7 @@ RiskSphere AI introduces more **dynamic relationships** by incorporating **machi
 1. Clone the repository:
    ```bash
    git clone https://github.com/rankiteo.git
-   cd rankiteo/CyberRisk-RankAI-version0.1
+   cd rankiteo/CyberRisk-RankAI-version0.2
 
 2. Install the required dependencies
    ```bash
