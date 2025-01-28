@@ -14,7 +14,7 @@ QuantifyEdge AI brings **quantile-based predictions** into the spotlight, allowi
 1. Clone the repository:
    ```bash
    git clone https://github.com/rankiteo.git
-   cd rankiteo/CyberRisk-RankAI-version0.3
+   cd rankiteo/CyberRisk-RankAI-version0.4
 
 2. Install the required dependencies
    ```bash
