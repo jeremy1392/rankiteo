@@ -1,6 +1,6 @@
 ### **Version 0.3: AdaptAI**
 
-AdaptAI marks a turning point with **context-aware adaptability**. By accounting for sector-specific risks, policy lengths, and company sizes, it improves predictions significantly. This version also enhances interpretability for business users through clear adjustments based on real-world factors.
+AdaptAI marks a turning point with **context-aware adaptability**. Accounting for sector-specific risks, policy lengths, revenue, number of employees, and number of LinkedIn followers improves predictions significantly. This version also enhances interpretability for business users through clear adjustments based on real-world factors.
 
 **Key Features**:
 - **Sector-specific context** and adaptability.
@@ -21,9 +21,21 @@ AdaptAI marks a turning point with **context-aware adaptability**. By accounting
    ```bash
    pip install -r requirements.txt
 
-3. Run the script using the command line with the following arguments:
+3. **Run the model**:
+   To execute the model, use the following command:
+
    ```bash
-   python main.py --sector <sector> --policy_length <policy_length> --security_score <security_score> 
+   python prediction_cost_all.py --sector "Healthcare" --policy_length 6 --security_score 850 --revenue 1000000 --employees 500 --followers 10000
+
+ 
+*Note*:
+
+The model **requires** the following inputs:
+- *`sector`*: The business sector (e.g., Healthcare, Finance, etc.).
+- *`policy_length`*: The policy duration in months (6 or 12, or other customized months).
+- *`security_score`*: A numerical security score from Rankiteo Cyberscoring Platform (e.g., 350).
+
+The other inputs (*`revenue`*, *`employees`*, *`followers`*) are *optional* but can significantly enhance the prediction accuracy.
 
 
 
