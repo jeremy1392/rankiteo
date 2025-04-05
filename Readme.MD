@@ -98,5 +98,8 @@ With **RiskMind AI 1.0**, we’ve reached a significant milestone in cyber risk 
 
 **Invest in the future of cybersecurity with Rankiteo's next-generation AI model: RiskMind!**
 
+[Visit Rankiteo](https://rankiteo.com)
+
+
 ---
 
